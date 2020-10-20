@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "cli": "0.4.3",
-    "minimatch": "0.0.x"
+    "minimatch": "3.0.2"
   },
   "devDependencies": {
     "jasmine-node": "1.0.x"
